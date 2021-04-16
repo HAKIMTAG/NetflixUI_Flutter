@@ -1,4 +1,4 @@
-# bookclub
+# Netflix UI Flutter
 
 A new Flutter project.
 
